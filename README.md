@@ -76,8 +76,7 @@ pip install -r requirements.txt
 
 1. Clone the repository
 
-   ```
-   ```
+```
 
 git clone [https://github.com/](https://github.com/)<your-username>/Premier-League-Analytics-Pipeline.git
 
@@ -99,7 +98,22 @@ python PFL_Data_Extraction and Cleaning.py
 ```
 
 4. Update data source in Power BI if the file path changes.
-```
+## Screenshots
+### Home Page:
+<img width="773" height="431" alt="Screenshot 2025-10-22 153259" src="https://github.com/user-attachments/assets/897c7350-c299-4d14-9fff-adc3b7e6176f" />
+
+### Team Statistics:
+<img width="763" height="429" alt="Screenshot 2025-10-22 153311" src="https://github.com/user-attachments/assets/04b16c7d-670f-48ca-a21d-4028c7ee5720" />
+
+### Players Comparison:
+<img width="767" height="428" alt="Screenshot 2025-10-22 153341" src="https://github.com/user-attachments/assets/ab704691-e658-4e64-a0f9-f013671ea2f8" />
+
+### Player In_depth 
+<img width="768" height="433" alt="Screenshot 2025-10-22 153350" src="https://github.com/user-attachments/assets/d3562c7d-35c8-4e1e-b1eb-e87dc0d399ae" />
+
+### Players Statistics
+<img width="767" height="426" alt="Screenshot 2025-10-22 153442" src="https://github.com/user-attachments/assets/9ac281b4-b874-4cdc-bfbb-06e2f8b5ea31" />
+
 ## Future Enhancements
 
 - Automate pipeline with Airflow or Prefect
@@ -112,6 +126,5 @@ python PFL_Data_Extraction and Cleaning.py
 
 Author: Karim Anani  
 Email: KarimAnani2024@gmail.com  
- GitHub: https://github.com/anani2000
+GitHub: https://github.com/anani2000
 
-```
